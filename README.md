@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 거미줄 서점 (BookMarketWeb)
 
 Tomcat 10.1 + JSP/Servlet 프로젝트. 이번 버전에서 추가된 기능:
@@ -33,3 +34,6 @@ Tomcat 10.1 + JSP/Servlet 프로젝트. 이번 버전에서 추가된 기능:
 - **홈 화면**: 서점 소장 도서 + 12개 분야(소설·시·에세이·자기계발·경제경영·인문·역사·과학·IT·만화·여행·어린이)를 카카오 도서 검색으로 30분 캐시하여 표시. `더보기` 로 분야별 전체/페이지/정렬, 상단 검색은 소장 도서 + 카카오 검색 결과. 분야 변경은 `kakao/BookCatalog.java` 의 `CATEGORIES`.
 - **쿠폰**: 코드·금액은 `DataStore` 상단 상수(`COUPON_CODE`, `COUPON_MIN_ORDER`, `COUPON_DISCOUNT`). 주문 취소 시 쿠폰이 복구됩니다.
 - **주문 시각**: `yyyy-MM-dd HH:mm:ss` (한국 시간) 로 저장·표시.
+=======
+# pj_java_BookMarket
+>>>>>>> 4de248d965101ea3ef62fc9b5cafb92595d5369a
